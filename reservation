@@ -1,0 +1,8 @@
+{
+  "roomId": 1,
+  "guestName": "Nash David",
+  "checkIn": "2025-09-01",
+  "checkOut": "2025-09-03"
+}
+
+{ "reservationId": 101, "status": "Confirmed" }
